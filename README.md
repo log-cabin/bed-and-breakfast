@@ -1,3 +1,3 @@
-bed-and-breakfast
+Log Cabin Bed & Breakfast
 =================
 

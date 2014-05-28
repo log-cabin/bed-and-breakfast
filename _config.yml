@@ -17,7 +17,7 @@ alaska_tent_price: "$75 Per Night for Alaska Tent"
 
 
 # Site Metadata
-baseurl: ""
+baseurl: "/bed-and-breakfast"
 url: "http://logcabinbedandbreakfast.net/"
 markdown: kramdown
 permalink: pretty

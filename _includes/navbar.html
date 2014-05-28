@@ -1,0 +1,43 @@
+<div id="nav">
+    <ul>
+        {% if page.title == "home" %}
+        <li id="current">
+            <a href="#">Home</a>
+        </li>
+        {% else %}
+        <li>
+            <a href="/">Home</a>
+        </li>
+        {% endif %}
+        {% if page.title == "rooms" %}
+        <li id="current">
+            <a href="#">Guest Suites</a>
+        </li>
+        {% else %}
+        <li>
+            <a href="/rooms/">Guest Suites</a>
+        </li>
+        {% endif %}
+        {% if page.title == "local" %}
+        <li id="current">
+            <a href="#">Local Attractions</a>
+        </li>
+        {% else %}
+        <li>
+            <a href="/local/">Local Attractions</a>
+        </li>
+        {% endif %}
+        {% if page.title == "about" %}
+        <li id="current">
+            <a href="#">About Us</a>
+        </li>
+        {% else %}
+        <li>
+            <a href="/about/">About Us</a>
+        </li>
+        {% endif %}
+        <li>
+            <a href="http://goo.gl/42gcrD" target= "_blank">Get Directions!</a>
+        </li>
+    </ul>
+</div>

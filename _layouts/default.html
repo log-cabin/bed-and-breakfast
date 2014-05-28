@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    {% include head.html %}
+    <body>
+        <div id="wrap">
+            <div id="header">
+                <div id="title-photo">
+                    <img src="/assets/images/titlebanner/default.jpg" width="870" height="103" />
+                </div>
+            </div>
+            <div id="header-photo">
+                <img src="/assets/images/mountsi3.jpg" width="870" height="206" />
+            </div>
+            {% include navbar.html %}
+            <div id="content-wrap">
+                {{ content }}
+            </div>
+            {% include foot.html %}
+        </div>
+    </body>
+</html>

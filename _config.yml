@@ -1,0 +1,34 @@
+# Site Main values
+title: "Log Cabin Bed & Breakfast"
+email: logcabinbedandbreakfast@live.com
+phone: (425) 533-8278
+address_1: "Log Cabin B&B"
+address_2: "13034 412th Ave SE"
+address_3: "North Bend, Washington 98045"
+
+#Nomadic Tipi
+nomadic_tipi_price_option_1: "Bring your own sleeping bags $90.00"
+nomadic_tipi_price_option_2: "We will sell you a sleeping bag for $20.00EA"
+nomadic_tipi_price_breakfast: "Breakfast- Delivered homecooked delicious FOR 2- $30.00 ($10 each additional)"
+
+#Mountain Tent
+mountian_tent_price: "$90 Per Night for Mountian Tent"
+alaska_tent_price: "$75 Per Night for Alaska Tent"
+
+
+# Site Metadata
+baseurl: ""
+url: "http://logcabinbedandbreakfast.net/"
+markdown: kramdown
+permalink: pretty
+keywords: bed breakfast north bend washington snoqualmie pass falls log cabin casino factory stores creations
+description: 
+>
+  The Log Cabin Bed and Breakfast is located in 
+  North Bend, Washington on 6 acres and 1,500ft. of the Snoqualmie River. 
+  It has a spectacular view of Mt SI. Along the River you can see all kinds 
+  of wild life, There is a herd of 16 elk and 4 deer and a heron that call 
+  this property home. There are many nice trails out your front door along 
+  the river, where this wildlife is often seen. There is also lots of access 
+  to many fishing spots for Rainbow trout. The river went to a catch and 
+  release policy over 10 years ago and now many trout are over 16 inches. 

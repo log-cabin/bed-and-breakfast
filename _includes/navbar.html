@@ -6,7 +6,7 @@
         </li>
         {% else %}
         <li>
-            <a href="/">Home</a>
+            <a href="{{ site.baseurl }}/">Home</a>
         </li>
         {% endif %}
         {% if page.title == "rooms" %}
@@ -15,7 +15,7 @@
         </li>
         {% else %}
         <li>
-            <a href="/rooms/">Guest Suites</a>
+            <a href="{{ site.baseurl }}/rooms/">Guest Suites</a>
         </li>
         {% endif %}
         {% if page.title == "local" %}
@@ -24,7 +24,7 @@
         </li>
         {% else %}
         <li>
-            <a href="/local/">Local Attractions</a>
+            <a href="{{ site.baseurl }}/local/">Local Attractions</a>
         </li>
         {% endif %}
         {% if page.title == "about" %}
@@ -33,7 +33,7 @@
         </li>
         {% else %}
         <li>
-            <a href="/about/">About Us</a>
+            <a href="{{ site.baseurl }}/about/">About Us</a>
         </li>
         {% endif %}
         <li>
